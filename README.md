@@ -1,1 +1,1 @@
-# https://thenemy.github.io/rsschool-cv/cv
+https://thenemy.github.io/rsschool-cv/cv
